@@ -1,2 +1,11 @@
-# Personal-portfolio-website
-Personal-portfolio-website is made it for fun to you use it 
+### Personal-portfolio-website
+
+- Personal portfolio website i made it for you to use it easily
+
+- Click this link to test it   https://asjadoooo.github.io/Personal-portfolio-website/
+
+### Credit 
+
+Before using give me credit ;c
+
+[Asjad Discord Server](https://discord.gg/HdukakhZ4Z)
