@@ -1,6 +1,6 @@
 ### Personal-portfolio-website
 
-- Personal portfolio website i made it for you to use it easily
+- Personal portfolio website i made it for you to use it easily and which is completely simple
 
 - Click this link to test it   https://asjadoooo.github.io/Personal-portfolio-website/
 
